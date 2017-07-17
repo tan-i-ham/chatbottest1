@@ -1,0 +1,49 @@
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Bot Application.dll.config
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Bot Application.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Bot Application.pdb
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Autofac.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Chronic.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Bot.Builder.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Bot.Connector.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Newtonsoft.Json.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.Net.Http.Formatting.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.Web.Http.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.Web.Http.WebHost.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Autofac.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Bot.Builder.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Bot.Connector.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\Newtonsoft.Json.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.Net.Http.Formatting.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.Web.Http.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\System.Web.Http.WebHost.xml
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\obj\Debug\Bottest1.csprojResolveAssemblyReference.cache
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\obj\Debug\Bot Application.dll
+c:\users\hanna\documents\visual studio 2017\Projects\Bottest1\Bottest1\obj\Debug\Bot Application.pdb
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\obj\Debug\Bottest1.csproj.App.config
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.ProjectOxford.Common.dll
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\System.Net.Http.Extensions.dll
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\System.Net.Http.Primitives.dll
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\System.Net.Http.Extensions.xml
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\System.Net.Http.Primitives.xml
+C:\Users\hanna\Documents\Visual Studio 2017\Projects\Bottest1\Bottest1\bin\Microsoft.Cognitive.LUIS.dll
